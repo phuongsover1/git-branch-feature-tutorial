@@ -1,1 +1,1 @@
-bugfix
+conflict file 2 - conflict branch
